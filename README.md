@@ -11,4 +11,4 @@ TODO
 TODO
 
 ## Credits
-* *[Gavin Fynbo](https://gavinfynbo.com)*
+* ***[Gavin Fynbo](https://gavinfynbo.com)***
